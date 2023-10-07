@@ -1,0 +1,5 @@
+﻿  test.c
+D:\C C++\Mine sweeping\Project1\test.c(14,2): warning C4013: “srand”未定义；假设外部返回 int
+D:\C C++\Mine sweeping\Project1\test.c(14,22): warning C4013: “time”未定义；假设外部返回 int
+D:\C C++\Mine sweeping\Project1\test.c(23,10): warning C4048: “char (*)[8]”和“char [10][10]”数组的下标不同
+  Project1.vcxproj -> D:\C C++\Mine sweeping\x64\Debug\Project1.exe

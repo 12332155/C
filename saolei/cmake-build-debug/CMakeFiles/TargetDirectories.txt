@@ -1,0 +1,3 @@
+D:/C C++/saolei/cmake-build-debug/CMakeFiles/saolei.dir
+D:/C C++/saolei/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C C++/saolei/cmake-build-debug/CMakeFiles/rebuild_cache.dir
