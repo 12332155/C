@@ -1,0 +1,4 @@
+﻿  main.c
+D:\C C++\.c\68\68\main.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\C C++\.c\68\68\main.c(1,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  68.vcxproj -> D:\C C++\.c\68\x64\Debug\68.exe

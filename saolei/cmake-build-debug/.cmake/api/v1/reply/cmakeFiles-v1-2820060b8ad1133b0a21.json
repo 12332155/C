@@ -434,8 +434,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/C C++/saolei/cmake-build-debug",
-		"source" : "D:/C C++/saolei"
+		"build" : "D:/C C++/.c/saolei/cmake-build-debug",
+		"source" : "D:/C C++/.c/saolei"
 	},
 	"version" : 
 	{

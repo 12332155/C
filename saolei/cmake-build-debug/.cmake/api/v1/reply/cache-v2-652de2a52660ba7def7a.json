@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/C C++/saolei/cmake-build-debug"
+			"value" : "d:/C C++/.c/saolei/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/C C++/saolei/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/C C++/.c/saolei/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/C C++/saolei"
+			"value" : "D:/C C++/.c/saolei"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/C C++/saolei/cmake-build-debug"
+			"value" : "D:/C C++/.c/saolei/cmake-build-debug"
 		},
 		{
 			"name" : "saolei_IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/C C++/saolei"
+			"value" : "D:/C C++/.c/saolei"
 		}
 	],
 	"kind" : "cache",
