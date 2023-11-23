@@ -1,0 +1,4 @@
+﻿  main.c
+D:\C C++\.c\P96\P96\main.c(40,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\C C++\.c\P96\P96\main.c(41,12): warning C4013: “strlen”未定义；假设外部返回 int
+  P96.vcxproj -> D:\C C++\.c\P96\x64\Debug\P96.exe
