@@ -1,0 +1,4 @@
+﻿  main.c
+D:\C C++\.c\if  while\if  while\main.c(12,22): warning C4013: “time”未定义；假设外部返回 int
+D:\C C++\.c\if  while\if  while\main.c(32,15): warning C4098: “play”:“void”函数返回值
+  if  while.vcxproj -> D:\C C++\.c\if  while\x64\Debug\if  while.exe
